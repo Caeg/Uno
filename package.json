@@ -28,7 +28,7 @@
     "pg": "^7.6.0",
     "pg-monitor": "^1.1.0",
     "pg-promise": "^8.5.0",
-    "sequelize": "^4.39.0",
+    "sequelize": "^5.15.1",
     "sequelize-cli": "^4.1.1",
     "socket.io": "*",
     "socket.io-client": "^2.2.0"
